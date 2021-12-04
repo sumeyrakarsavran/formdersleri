@@ -1,0 +1,12 @@
+C:\Users\Sümeyra\source\repos\Form Dersleri-1\Form Dersleri-1\bin\Debug\Form Dersleri-1.exe.config
+C:\Users\Sümeyra\source\repos\Form Dersleri-1\Form Dersleri-1\bin\Debug\Form Dersleri-1.exe
+C:\Users\Sümeyra\source\repos\Form Dersleri-1\Form Dersleri-1\bin\Debug\Form Dersleri-1.pdb
+C:\Users\Sümeyra\source\repos\Form Dersleri-1\Form Dersleri-1\obj\Debug\Form Dersleri-1.csproj.AssemblyReference.cache
+C:\Users\Sümeyra\source\repos\Form Dersleri-1\Form Dersleri-1\obj\Debug\Form_Dersleri_1.frmAnaSayfa.resources
+C:\Users\Sümeyra\source\repos\Form Dersleri-1\Form Dersleri-1\obj\Debug\Form_Dersleri_1.Properties.Resources.resources
+C:\Users\Sümeyra\source\repos\Form Dersleri-1\Form Dersleri-1\obj\Debug\Form Dersleri-1.csproj.GenerateResource.cache
+C:\Users\Sümeyra\source\repos\Form Dersleri-1\Form Dersleri-1\obj\Debug\Form Dersleri-1.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyra\source\repos\Form Dersleri-1\Form Dersleri-1\obj\Debug\Form Dersleri-1.exe
+C:\Users\Sümeyra\source\repos\Form Dersleri-1\Form Dersleri-1\obj\Debug\Form Dersleri-1.pdb
+C:\Users\Sümeyra\source\repos\Form Dersleri-1\Form Dersleri-1\obj\Debug\Form_Dersleri_1.frm2.resources
+C:\Users\Sümeyra\source\repos\Form Dersleri-1\Form Dersleri-1\obj\Debug\Form_Dersleri_1.frm3.resources
